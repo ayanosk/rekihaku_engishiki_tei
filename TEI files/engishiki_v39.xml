@@ -41,6 +41,7 @@
     <text>
         <body>
             <div ana="正親" n="39" subtype="条" type="式">
+                <pb facs="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-39%2F00002.tif/full/full/0/default.jpg"/>
                 <head>正親</head>
                 <div ana="正親" n="39.1" subtype="項" type="条">
                     <head ana="諸王年満"/>
@@ -58,6 +59,7 @@
                     <p ana="項" corresp="engishiki_ja.xml#item39100301 engishiki_en.xml#item39100301"
                         xml:id="item39100301">凡諸王計帳者、令造二通、司加押署、京職判畢一通留司、待年足符、即勘会申省、</p>
                 </div>
+                <pb facs="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-39%2F00003.tif/full/full/0/default.jpg"/>
                 <div ana="正親" n="39.4" subtype="項" type="条">
                     <head ana="同世同名"/>
                     <p ana="項" corresp="engishiki_ja.xml#item39100401 engishiki_en.xml#item39100401"
@@ -67,12 +69,12 @@
                     <head ana="女王禄"/>
                     <p ana="項" corresp="engishiki_ja.xml#item39100501 engishiki_en.xml#item39100501"
                         xml:id="item39100501"
-                            >凡正月八日給禄女王、所司設座於殿庭、立幄二宇於安福殿前、積禄於版位南、亦供奉殿上装束、天皇御紫宸殿、内侍率女官就座、本司官人引女王自月華門参入、女王先就幄下座、〈以世為次、不拠長幼、〉次官人共趨就前庭座、佑一人執簿唱曰、<anchor
+                        >凡正月八日給禄女王、所司設座於殿庭、立幄二宇於安福殿前、積禄於版位南、亦供奉殿上装束、天皇御紫宸殿、内侍率女官就座、本司官人引女王自月華門参入、女王先就幄下座、〈以世為次、不拠長幼、〉次官人共趨就前庭座、佑一人執簿唱曰、<anchor
                             xml:id="app3910050101"/>其<anchor xml:id="app3910050101e"/>親王之後、即一<anchor
-                            xml:id="app3910050102"/>祖<anchor xml:id="app3910050102e"
-                            />之胤皆下座、共称唯就庭中座、座定執簿一々喚名、女王即称唯、進受禄退出、余亦如之、其禄法、人別絹二疋、綿六屯、<anchor
-                            xml:id="app3910050103"/>〈十一月新嘗会准此、〉<anchor xml:id="app3910050103e"
-                        /></p>
+                                xml:id="app3910050102"/>祖<anchor xml:id="app3910050102e"
+                                />之胤皆下座、共称唯就庭中座、座定執簿一々喚名、女王即称唯、進受禄退出、余亦如之、其禄法、人別絹二疋、綿六屯、<anchor
+                                    xml:id="app3910050103"/>〈十一月新嘗会准此、〉<anchor xml:id="app3910050103e"
+                                    /></p>
                     <app from="#app3910050101" to="#app3910050101e">
                         <lem wit="#土本">其</lem>
                         <rdg wit="#訳注本 #島原本">某</rdg>
@@ -94,7 +96,7 @@
                     <head ana="女王定"/>
                     <p ana="項" corresp="engishiki_ja.xml#item39100601 engishiki_en.xml#item39100601"
                         xml:id="item39100601">凡賜禄女王定二百六十二人、其随闕補<anchor xml:id="app3910060101"
-                            />代<anchor xml:id="app3910060101e"/>、及改姓不為闕事、並同上条、</p>
+                        />代<anchor xml:id="app3910060101e"/>、及改姓不為闕事、並同上条、</p>
                     <app from="#app3910060101" to="#app3910060101e">
                         <lem wit="#九本">代</lem>
                         <rdg wit="#土本 #近本 #京博本 #壬本 #梵本 #慶長本">伐代</rdg>
@@ -106,9 +108,9 @@
                     <head ana="諸王時服"/>
                     <p ana="項" corresp="engishiki_ja.xml#item39100701 engishiki_en.xml#item39100701"
                         xml:id="item39100701"
-                            >凡諸王給春夏時服者、二世王絹六疋、糸十二絇、調布十八端、鍬卅口、四世王以上並如令、正月廿日録送省、秋冬准<anchor
+                        >凡諸王給春夏時服者、二世王絹六疋、糸十二絇、調布十八端、鍬卅口、四世王以上並如令、正月廿日録送省、秋冬准<anchor
                             xml:id="app3910070101"/>此<anchor xml:id="app3910070101e"
-                        />、〈但以綿代糸、以鉄二廷代鍬五口、〉皆向大蔵受之、不得遣人代請、</p>
+                            />、〈但以綿代糸、以鉄二廷代鍬五口、〉皆向大蔵受之、不得遣人代請、</p>
                     <app from="#app3910070101" to="#app3910070101e">
                         <lem wit="#九本">此</lem>
                         <rdg wit="#近世写本">此鉄</rdg>
@@ -119,7 +121,7 @@
                     <head ana="女王節禄"/>
                     <p ana="項" corresp="engishiki_ja.xml#item39100801 engishiki_en.xml#item39100801"
                         xml:id="item39100801">凡給女王二節禄見参簿、当日早旦<anchor xml:id="app3910080101"
-                            />奏<anchor xml:id="app3910080101e"/>、</p>
+                        />奏<anchor xml:id="app3910080101e"/>、</p>
                     <app from="#app3910080101" to="#app3910080101e">
                         <lem wit="#土本">奏</lem>
                         <rdg wit="#訳注本 #島原本">奏之</rdg>
@@ -129,7 +131,7 @@
                 <div ana="正親" n="39.9" subtype="項" type="条">
                     <head ana="平野祭"/>
                     <p ana="項" corresp="engishiki_ja.xml#item39100901 engishiki_en.xml#item39100901"
-                        xml:id="item39100901">凡参平野祭所官人并諸王見参歴名、進太政官、</p>
+                        xml:id="item39100901">凡参平野祭所官人并諸王見参歴名、進<pb facs="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-39%2F00004.tif/full/full/0/default.jpg"/>太政官、</p>
                 </div>
                 <div ana="正親" n="39.10" subtype="項" type="条">
                     <head ana="薬師寺"/>
